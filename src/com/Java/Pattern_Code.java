@@ -2,7 +2,7 @@ package com.Java;
 
 public class Pattern_Code {
 
-	public static void main(String[] args) {
+public static void main(String[] args) {
 		
  Pascales();
  NumPattern(6);
@@ -15,7 +15,7 @@ public class Pattern_Code {
  revAlpha(5);
  PasclsTriangle(4);
 	}
- /* Pascale's Triangle
+ /* Pascale's Triangle ///
 	*
 	**
 	***
